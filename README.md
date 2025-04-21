@@ -1,1 +1,1 @@
-# Analog-Integrated-Circuit-Project
+# Designing a Low Noise Operational Amplifier
